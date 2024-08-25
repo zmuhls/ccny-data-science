@@ -1,7 +1,8 @@
 title: "Foundations of Data Science"
-description: Foundations of Data Science SP24 @ CCNY 
+description: CSC 10800 @ CCNY 
 theme: just-the-docs
-url: /ccny-data-science/
+url: https://zmuhls.github.io/
+baseurl: "/CCNY-Data-Science"
 repository: zmuhls/CCNY-Data-Science
 
 permalink: pretty
@@ -33,7 +34,7 @@ search:
 
 aux_links:
   "zmuhls/CCNY-Data-Science on GitHub":
-    - "/github.com/zmuhls/CCNY-Data-Science"
+    - "https://github.com/zmuhls/CCNY-Data-Science"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
