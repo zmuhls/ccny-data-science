@@ -4,7 +4,7 @@ layout: default
 nav_order: 01
 ---
 
-# CSC 10800: Foundations of Data Science 
+# CSC 10800: Foundations of Data Science
 
 ### Fall 2024, City College of New York, CUNY
 
@@ -20,7 +20,7 @@ Throughout the semester, we will explore foundational concepts in data science, 
 
 Linked below are key pages and resources throughout the course:
 
-- [Website](https://ccny-data-science.github.io)
+- [Website](https://zmuhls.github.io/CCNY-Data-Science/)
 - [Syllabus](/Syllabus)
 - [Schedule](/Schedule)
 - [Activities](/Activities)
