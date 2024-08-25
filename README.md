@@ -17,7 +17,7 @@ This GitHub directory serves as the website and resource hub for **CSC 10800: Fo
 
 Linked below are resources and documents essential to your success in the course:
 
-- [Website](https://ccny-data-science.github.io)
+- [Website](https://zmuhls.github.io/CCNY-Data-Science/)
 - [Syllabus](https://github.com/zmuhls/TEST-CCNY-Data-Science/blob/main/syllabus)
 - [Schedule](https://github.com/zmuhls/TEST-CCNY-Data-Science/blob/main/schedule)
 - [Activities](https://github.com/zmuhls/TEST-CCNY-Data-Science/blob/main/activity)
