@@ -10,7 +10,7 @@ This GitHub directory serves as the website and resource hub for **CSC 10800: Fo
 - Date: Mon, Wed 02:00 – 3:15pm <br />
 - Instructor: Zach Muhlbauer (he/him/his) <br />
 - Email: [zmuhlbauer@gc.cuny.edu](mailto:zmuhlbauer@gc.cuny.edu) <br />
-- Office Hours: **Thurs 3 - 5pm or by appointment** <br />
+- Office Hours: **Wednesday 3 - 5pm via Zoom, or in person by appointment** <br />
 - Location: **TBD**
 
 ### Quick Links
