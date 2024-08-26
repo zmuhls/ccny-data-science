@@ -14,7 +14,7 @@ Throughout the semester, we will explore foundational concepts in data science, 
 
 ### Section Details 📌
 
-**Section**: CSC 10800 (LEC): Foundations of Data Science<br />**Dates**: Tue/Thu, 3:30-4:45pm, Aug 28 - Dec 21<br />**Location**: Marshak Science Building, Rm 410  <br />**Instructor**: Zach Muhlbauer,[zmuhlbauer@gc.cuny.edu](mailto:zmuhlbauer@gc.cuny.edu)<br />**Office Hours**: Wed 1-3pm over Zoom, or in person by appointment
+**Section**: CSC 10800 (LEC): Foundations of Data Science<br />**Dates**: Tue/Thu, 3:30-4:45pm, Aug 28 - Dec 21<br />**Location**: Marshak Science Building, Rm 410  <br />**Instructor**: Zach Muhlbauer | [zmuhlbauer@gc.cuny.edu](mailto:zmuhlbauer@gc.cuny.edu)<br />**Office Hours**: Wed 3-5pm over Zoom, or in person by appointment
 
 ### Important Links 🔗
 
