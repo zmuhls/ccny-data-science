@@ -2,16 +2,16 @@
 
 ## City College of New York, CUNY
 
-This GitHub directory serves as the website and resource hub for **CSC 10800: Foundations of Data Science** with [Zach Muhlbauer](https://github.com/zmuhls), held at the City College of NY during Fall 2024.
+This repository serves as the course website for **CSC 10800: Foundations of Data Science** taught by [Zach Muhlbauer](https://github.com/zmuhls) at the City College of NY during Fall 2024.
 
 ### Course Details
 
-- Section: CSC 10800 E <br />
+- Section: CSC 10800 R-LEC <br />
 - Date: Mon, Wed 02:00 – 3:15pm <br />
+- Location: Marshak Science Building, Rm. 410
 - Instructor: Zach Muhlbauer (he/him/his) <br />
 - Email: [zmuhlbauer@gc.cuny.edu](mailto:zmuhlbauer@gc.cuny.edu) <br />
 - Office Hours: **Wednesday 3 - 5pm via Zoom, or in person by appointment** <br />
-- Location: 
 
 ### Important Links
 
