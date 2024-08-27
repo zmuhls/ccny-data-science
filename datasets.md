@@ -15,7 +15,7 @@ For ease of retrieval, please make sure to save the datasets in the same folder 
 - [Social Network Datasets](https://github.com/melaniewalsh/sample-social-network-datasets)
 - [Data 8 List of Datasets](https://github.com/data-8/textbook/tree/main/assets/data)
 
-Except for _Command Line Practice_ and _Data 8_, the datasets used in class are retrieved from Melanie Walsh's [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html) and related work of hers on GitHub. 
+Except for Data 8's list of datasets, the one used in class are retrieved from Melanie Walsh's [Introduction to Cultural Analytics & Python](https://melaniewalsh.github.io/Intro-Cultural-Analytics/00-Datasets/00-Datasets.html) and related work of hers on GitHub. 
 
-The _COVID-19 Vaccine Twitter Archive_ is modified from from [Gabriel Preda's COVID-19 All Vaccines Tweets dataset](https://www.kaggle.com/datasets/gpreda/all-covid19-vaccines-tweets).
+The _COVID-19 Vaccine Twitter Archive_ is modified from [Gabriel Preda's COVID-19 All Vaccines Tweets dataset](https://www.kaggle.com/datasets/gpreda/all-covid19-vaccines-tweets).
 

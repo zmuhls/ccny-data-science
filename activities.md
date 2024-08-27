@@ -22,29 +22,29 @@ has_children: false
   #### Activity 1: Building Blocks
   
   - Due: 09/26 (Thur) 
-  - Downloadable [Instructions: Activity 1](/assets/activities/activity_1.ipynb)
+  - Downloadable [Instructions: Activity 1](https://colab.research.google.com/github/zmuhls/CCNY-Data-Science/blob/main/assets/activities/activity_1.ipynb)
   - Submission format: .md (Markdown) and .ipynb (Jupyter Notebook)
   
   #### Activity 2: Python Primer
   
   - Due: 10/17 (Thur)
-  - Downloadable [Instructions: Activity 2](/assets/activities/activity_2.ipynb)
+  - Downloadable [Instructions: Activity 2](https://colab.research.google.com/github/zmuhls/CCNY-Data-Science/blob/main/assets/activities/activity_2.ipynb)
   - Submission format: .md (Markdown) and .ipynb (Jupyter Notebook)
   
   #### Activity 3: Practicing Pandas
   
   - Due: 11/07 (Thur)
-  - Downloadable [Instructions: Activity 3](/assets/activities/activity_3.ipynb)
+  - Downloadable [Instructions: Activity 3](https://colab.research.google.com/github/zmuhls/CCNY-Data-Science/blob/main/assets/activities/activity_3.ipynb)
   - Submission format: .md (Markdown) and .ipynb (Jupyter Notebook)
   
   #### Activity 4: Writing Docs
   
   - Due: 11/14 (Thur)
-  - Downloadable [Instructions: Activity 4](/assets/activities/activity_4.ipynb)
+  - Downloadable [Instructions: Activity 4](https://github.com/zmuhls/CCNY-Data-Science/blob/main/assets/activities/activity_4.md)
   - Submission format: .md (Markdown) and .ipynb (Jupyter Notebook) 
   
   #### Activity 5: Data Visualization
   
   - Due: 11/26 (Tue)
-  - Downloadable [Instructions: Activity 5](/assets/activities/activity_5.pdf)
+  - Downloadable [Instructions: Activity 5](https://github.com/zmuhls/CCNY-Data-Science/blob/main/assets/activities/activity_5.pdf)
   - Submission format: .md (Markdown) and .ipynb (Jupyter Notebook)
