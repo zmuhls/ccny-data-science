@@ -5,12 +5,14 @@ nav_order: 02
 parent: Resources
 ---
 
-- [Sample python script](/assets/notebooks/sample_pythonScript.ipynb)
-- [In-class activity: Data types and variables](/assets/notebooks/datatypes.ipynb)
-- [In-class activity: Practicing string methods](/assets/notebooks/Practice_YellowWallpaper.ipynb)
-- [In-class activity: For loops](/assets/notebooks/for_loops.ipynb)
-- [In-class activity: Functions](/assets/notebooks/functions.ipynb)
-- [In-class activity: Pandas](/assets/notebooks/0328_pandas.ipynb) (updated: 03/28)
-- [Assessing a model](/assets/notebooks/AssessingaModel.ipynb)
-- [Sentiment Analysis: Single sentence and list](/assets/notebooks/0416_sentiment_analysis.ipynb)
-- [Sentiment Analysis: Dataset](/assets/notebooks/0418_sentiment_covid19.ipynb)
+Check back later for active links
+
+- Sample Python Script
+- In-class activity: Data types and variables
+- In-class activity: Practicing string methods 
+- In-class activity: For loops
+- In-class activity: Functions
+- In-class activity: Pandas 
+- Assessing a model
+- Sentiment Analysis: Single sentence and list
+- Sentiment Analysis: Dataset
