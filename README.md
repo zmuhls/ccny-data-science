@@ -6,25 +6,21 @@ This repository serves as the course website for **CSC 10800: Foundations of Dat
 
 ### Course Details
 
-- Section: CSC 10800 R-LEC <br />
-- Date: Mon, Wed 02:00 – 3:15pm <br />
-- Location: Marshak Science Building, Rm. 410
-- Instructor: Zach Muhlbauer (he/him/his) <br />
-- Email: [zmuhlbauer@gc.cuny.edu](mailto:zmuhlbauer@gc.cuny.edu) <br />
-- Office Hours: **Wednesday 3 - 5pm via Zoom, or in person by appointment** <br />
+**Section**: CSC 10800 R: Foundations of Data Science<br />**Dates**: Tu/Th, 3:30-4:45pm, Aug 28 - Dec 21<br />**Location**: Marshak Science Building, Rm 410  <br />**Instructor**: Zach Muhlbauer, [zmuhlbauer@gc.cuny.edu](mailto:zmuhlbauer@gc.cuny.edu)<br />**Office Hours**: Wed 3-5pm over Zoom, or in person by appointment <br />
 
 ### Important Links
 
 Linked below are resources and documents essential to your success in the course:
 
 - [Website](https://zmuhls.github.io/CCNY-Data-Science/)
-- [Syllabus](https://zmuhls.github.io/CCNY-Data-Science/syllabus/)
-- [Schedule](https://zmuhls.github.io/CCNY-Data-Science/schedule/)
-- [Policies](https://zmuhls.github.io/CCNY-Data-Science/policies/)
-- [Technology](https://zmuhls.github.io/CCNY-Data-Science/technology)
-- [Activities](https://zmuhls.github.io/CCNY-Data-Science/activities/)
-- [Portfolio](https://zmuhls.github.io/CCNY-Data-Science/portfolio/)
-- [Datasets](https://zmuhls.github.io/CCNY-Data-Science/datasets/)
+- [Syllabus](Syllabus)
+- [Schedule](Schedule)
+- [Activities](Activities)
+- [Policies](Policies)
+- [Technology](Technology)
+- [Activities](Activities)
+- [Portfolio](Portfolio)
+- [Datasets](Datasets)
 - [Jupyter Notebooks](https://zmuhls.github.io/CCNY-Data-Science/notebooks/)
 - [Hypothesis Group](https://hypothes.is/groups/yKvGZkjg/csc10800-annotation-group)
 
