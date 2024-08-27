@@ -8,7 +8,7 @@ parent: Syllabus
 >
 > ## Course Details 📌
 >
-> **Section**: CSC 10800 (LEC): Foundations of Data Science <br />**Dates**: Tue/Thu, 3:30-4:45pm, Aug 28 - Dec 21<br />**Location**: Marshak Science Building, Rm 410  <br />**Instructor**: Prof. Zach Muhlbauer | [zmuhlbauer@gc.cuny.edu](mailto:zmuhlbauer@gc.cuny.edu)<br />**Office Hours**: Wed 3-5pm over Zoom, or in person by appointment
+> **Section**: CSC 10800 (LEC): Foundations of Data Science <br />**Dates**: Tue/Thu, 3:30-4:45pm, Aug 28 - Dec 21<br />**Location**: Marshak Science Building, Rm 410  <br />**Instructor**: Prof. Zach Muhlbauer, [zmuhlbauer@gc.cuny.edu](mailto:zmuhlbauer@gc.cuny.edu)<br />**Office Hours**: Wed 3-5pm over Zoom, or in person by appointment  
 >
 > ## Course Description 📄
 >
@@ -16,8 +16,8 @@ parent: Syllabus
 >
 > The competencies learned in this course will provide students with skills that will be of use in their professional careers, as well as tools to better understand, quantitatively and qualitatively, the social world around them. Finally, by teaching critical concepts and skills in computer programming and statistical inference, the class prepares students for further coursework in technology-aware fields of study, from Python programming and cultural analytics to the big umbrella of the Digital Humanities. The course is therefore designed for students who are new to statistics and programming. Students will make use of the Python programming language, but no computer science pre-requisites are required.
 >
-> This course does <strong>not</strong> satisfy degree requirements for Computer Science students, who should *not* be enrolled in this course.
->
+> This course does <strong>not</strong> satisfy degree requirements for Computer Science students, who should *not* be enrolled in this course. 
+
 > ## Course Materials 🗂️
 >
 > All required reading materials, activities, and instructions are provided on the [Schedule](https://zmuhls.github.io/CCNY-Data-Science/schedule/) page. Additionally, datasets are provided on the [Datasets](https://zmuhls.github.io/CCNY-Data-Science/datasets/) page, and assets for the course website are hosted [here](https://github.com/zmuhls/ccny-data-science). 
