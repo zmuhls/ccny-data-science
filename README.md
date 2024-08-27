@@ -13,15 +13,14 @@ This repository serves as the course website for **CSC 10800: Foundations of Dat
 Linked below are resources and documents essential to your success in the course:
 
 - [Website](https://zmuhls.github.io/CCNY-Data-Science/)
-- [Syllabus](Syllabus)
-- [Schedule](Schedule)
-- [Activities](Activities)
-- [Policies](Policies)
-- [Technology](Technology)
-- [Activities](Activities)
-- [Portfolio](Portfolio)
-- [Datasets](Datasets)
-- [Jupyter Notebooks](https://zmuhls.github.io/CCNY-Data-Science/notebooks/)
+- [Syllabus](https://zmuhls.github.io/CCNY-Data-Science/syllabus/)
+- [Schedule](https://zmuhls.github.io/CCNY-Data-Science/schedule/)
+- [Activities](https://zmuhls.github.io/CCNY-Data-Science/activities/)
+- [Portfolio](https://zmuhls.github.io/CCNY-Data-Science/portfolio/)
+- [Policies](https://zmuhls.github.io/CCNY-Data-Science/policies/)
+- [Technology](https://zmuhls.github.io/CCNY-Data-Science/technology/)
+- [Datasets](https://zmuhls.github.io/CCNY-Data-Science/datasets/)
+- [Notebooks](https://zmuhls.github.io/CCNY-Data-Science/notebooks/)
 - [Hypothesis Group](https://hypothes.is/groups/yKvGZkjg/csc10800-annotation-group)
 
 ## Course Description
