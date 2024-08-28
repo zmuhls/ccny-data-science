@@ -2,7 +2,6 @@
 title: Portfolio
 layout: default
 nav_order: 04
-has_children: false
 ---
 # Social Coding Portfolio
 
