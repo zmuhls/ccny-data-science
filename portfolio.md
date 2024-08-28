@@ -4,10 +4,9 @@ layout: default
 nav_order: 04
 has_children: false
 ---
-
 # Social Coding Portfolio
-### Project Description
 
+### Project Description
 For the final project in this course, you will create and maintain a social coding portfolio on GitHub that will serve as both a public submission portal for your coursework and a professional showcase of your progress in data science. This portfolio will house your responses to five programming activities, each accompanied by a reflective account of your learning process, and will culminate in a final semester reflection.You will also take part in a lightning talk that  highlights key aspects of your technical and critical learnings throughout the course.
 
 ### Components
