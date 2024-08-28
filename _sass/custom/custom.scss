@@ -1,17 +1,13 @@
 .main-header {
   height: 75px;
+  padding: 5px;
   font-family:monospace;
 }
 
-.site-header {
-  height: 80px;
-  max-height: revert;
 }
 
 .table-wrapper2 {
   display: block;
-  width: 100%;
-  max-width: 100%;
   margin-bottom: $sp-5;
   overflow-x: auto;
   border-radius: $border-radius;
@@ -58,5 +54,15 @@ tbody {
 thead {
   th {
     border-bottom: $border $border-color;
+  }
+}
+
+$link-color: #228ea9df; 
+
+a {
+  color: $link-color; // Use the link color variable
+  text-decoration: none;
+  &:hover {
+    color: darken($link-color, 25%); // Use the variable in a function
   }
 }
