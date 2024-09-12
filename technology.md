@@ -17,6 +17,6 @@ Need a spare laptop? Try CCNY's [Laptop Loaner Program](https://portal.ccny.cuny
 
 ## Software 🖥️ 
 
-**Jupyter Notebook:** In-class lessons and homeworks are done in Jupyter Notebook so that we can use markdown and Python simultaneously.  The notebooks assume a Python 3 installation with the standard modules from the **Anaconda** **installation** (e.g. NLTK, Pandas, Numpy and Matplotlib) linked on the [schedule](https://zmuhls.github.io/CCNY-Data-Science/schedule/). 
+**Jupyter Notebook:** In-class lessons and homeworks are done in Jupyter Notebook so that we can use markdown and Python simultaneously.  The notebooks assume a Python 3 installation with the standard modules from the **Anaconda** **installation** (e.g. NLTK, Pandas, Numpy and Matplotlib) linked on the [schedule](https://zmuhls.github.io/ccny-data-science/schedule/). 
 
 **Hypothesis Annotation:** Expect to post 2-3 annotations for most  critical readings we do in this class, each about 25-50 words in length and assessed on thoughtfulness, style and craft, and a demonstrated effort to respond to others. Hypothesis can also be a useful research tool and means of information management, so I encourage you to engage with it throughout the course. Moreover, if you have not yet joined our private annotation group, please reach out to me for the invite link. 
