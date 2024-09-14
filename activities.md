@@ -21,19 +21,19 @@ Upload your work to the "Activities" folder of your portfolio project on GitHub 
 
 ### Activity 1: Building Blocks
 
-- Due: 09/26 (Thur)
+- Due: 10/03 (Tue)
 - Downloadable [Instructions: Activity 1](https://colab.research.google.com/github/zmuhls/ccny-data-science/blob/main/assets/activities/activity_1.ipynb)
 - Submission format: .md (Markdown) and .ipynb (Jupyter Notebook)
 
 ### Activity 2: Python Primer
 
-- Due: 10/17 (Thur)
+- Due: 10/22 (Tue)
 - Downloadable [Instructions: Activity 2](https://colab.research.google.com/github/zmuhls/ccny-data-science/blob/main/assets/activities/activity_2.ipynb)
 - Submission format: .md (Markdown) and .ipynb (Jupyter Notebook)
 
 ### Activity 3: Practicing Pandas
 
-- Due: 11/07 (Thur)
+- Due: 11/07 (Thu)
 - Downloadable [Instructions: Activity 3](https://colab.research.google.com/github/zmuhls/ccny-data-science/blob/main/assets/activities/activity_3.ipynb)
 - Submission format: .md (Markdown) and .ipynb (Jupyter Notebook)
 
@@ -45,6 +45,6 @@ Upload your work to the "Activities" folder of your portfolio project on GitHub 
 
 ### Activity 5: Data Visualization
 
-- Due: 11/26 (Tue)
+- Due: 11/28 (Thu)
 - Downloadable [Instructions: Activity 5](https://github.com/zmuhls/ccny-data-science/blob/main/assets/activities/activity_5.pdf)
 - Submission format: .md (Markdown) and .ipynb (Jupyter Notebook)
