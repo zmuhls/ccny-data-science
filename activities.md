@@ -21,7 +21,7 @@ Upload your work to the "Activities" folder of your portfolio project on GitHub 
 
 ### Activity 1: Building Blocks
 
-- Due: 10/03 (Tue)
+- Due: 10/08 (Tue)
 - Downloadable [Instructions: Activity 1](https://colab.research.google.com/github/zmuhls/ccny-data-science/blob/main/assets/activities/activity_1.ipynb)
 - Submission format: .md (Markdown) and .ipynb (Jupyter Notebook)
 
