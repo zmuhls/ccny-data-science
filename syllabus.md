@@ -19,7 +19,7 @@ This course does <strong>not</strong> satisfy degree requirements for Computer S
 
 ## Course Materials 🗂️
 
-All required reading materials, activities, and instructions are provided on the [Schedule](https://zmuhls.github.io/ccny-data-science/schedule/) page. Additionally, datasets are provided on the [Datasets]((https://zmuhls.github.io/ccny-data-science/datasets/) page, and assets for the course website are hosted [here](https://github.com/zmuhls/ccny-data-science). 
+All required reading materials, activities, and instructions are provided on the [Schedule](https://zmuhls.github.io/ccny-data-science/schedule/) page. Additionally, datasets are provided on the [Datasets](https://zmuhls.github.io/ccny-data-science/datasets/) page, and assets for the course website are hosted [here](https://github.com/zmuhls/ccny-data-science). 
 
 **Technical Readings**: These readings draw from Melanie Walsh's open-access [Introduction to Cultural Analytics and Python ](https://melaniewalsh.github.io/Intro-Cultural-Analytics/welcome.html)(2021), an online textbook written for students in humanities and social sciences to gain a practical introduction to the Python programming language within the context of cultural analysis. The textbook demonstrates how Python can be applied to a wide range of cultural materials, such as magazine articles, classic novels, TV scripts, technical manuals, social networks, and so more.  
 
