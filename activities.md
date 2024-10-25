@@ -18,9 +18,13 @@ We will use [GitHub](https://github.com) as a class submission portal for each p
 * **[See here for an example](https://github.com/zmuhls/ccny-coding-portfolio/tree/main)**
 
 **GitHub Instructions**:
-1. **Create a new repository**: Go to GitHub and create a new repository for your project. Name it appropriately, like `social-coding-portfolio`. Accept the option to initiate a `README.md`, which should serve as a project overview with an outline of its purpose, its structure, and related information. 
+1. **Create a new repository**: Go to GitHub and create a new repository for your project. Name it appropriately, like `social-coding-portfolio`. Accept the option to initiate a `README.md`, which should serve as a project overview with an outline of its purpose, its structure, etc. 
+
 2. **Create two folders**: (i) `Notebooks` for Jupyter Notebook files and (ii) `Reflections` for Markdown reflections. [Click here](https://stackoverflow.com/questions/12258399/how-do-i-create-a-folder-in-a-github-repository) for guidance on how to set up folders on GitHub.<br>
-3. **Upload reflection and notebook**: Upload each submission as two files (one `.ipynb` in `Notebooks` and one `.md` in `Reflections`) and commit them with semi-descriptive messages.<br>
+
+3. **Upload reflection and notebook**: Upload each submission as two files — one Jupyter notebook (`.ipynb`) to `Notebooks` and one markdown file (`.md`) to `Reflections`) and commit them with semi-descriptive messages.<br>
+
+## Assignment Dates & Links
 
 ### Activity 1: Building Blocks
 
@@ -51,3 +55,4 @@ We will use [GitHub](https://github.com) as a class submission portal for each p
 - Due: 11/28 (Tue)
 - Downloadable [Instructions: Activity 5](https://github.com/zmuhls/ccny-data-science/blob/main/assets/activities/activity_5.pdf)
 - Submission format: .md (Markdown) and .ipynb (Jupyter Notebook)
+
