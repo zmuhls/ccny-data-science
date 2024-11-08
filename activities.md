@@ -26,6 +26,8 @@ We will use [GitHub](https://github.com) as a class submission portal for each p
 
 ## Assignment Dates & Links
 
+**Please complete at least four of the five activities for full credit.** 
+
 ### Activity 1: Building Blocks
 
 - Due: 10/08 (Tue)
@@ -40,19 +42,19 @@ We will use [GitHub](https://github.com) as a class submission portal for each p
 
 ### Activity 3: Practicing Pandas
 
-- Due: 11/07 (Thu)
+- Floating Deadline: Mon 11/12 - Fri 11/15
 - Downloadable [Instructions: Activity 3](https://colab.research.google.com/github/zmuhls/ccny-data-science/blob/main/assets/activities/activity_3.ipynb)
 - Submission format: .md (Markdown) and .ipynb (Jupyter Notebook)
 
-### Activity 4: Writing Docs
+### Activity 4: Writing Documentation
 
-- Due: 11/14 (Thur)
+- Due: 11/21 (Thu)
 - Downloadable [Instructions: Activity 4](https://github.com/zmuhls/ccny-data-science/blob/main/assets/activities/activity_4.md)
 - Submission format: .md (Markdown) and .ipynb (Jupyter Notebook)
 
 ### Activity 5: Data Visualization
 
-- Due: 11/28 (Tue)
+- Due: 12/05 (Thu)
 - Downloadable [Instructions: Activity 5](https://github.com/zmuhls/ccny-data-science/blob/main/assets/activities/activity_5.pdf)
-- Submission format: .md (Markdown) and .ipynb (Jupyter Notebook)
+- Submission format: .pdf, .md., or .docx
 
