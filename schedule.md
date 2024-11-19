@@ -43,7 +43,7 @@ Assigned readings, activities, and projects are linked below. All work is due on
 | 12/05 (Thur) | Coworking Lab                          |                                                              |                                                              | **Activity 5**: [Data Visualization](https://zmuhls.github.io/ccny-data-science/activities/#activity-5-data-visualization) |
 | 12/10 (Tue)  | Coworking Lab                          |                                                              |                                                              |                                                              |
 | 12/12 (Thur) | Lightning Talks                        |                                                              |                                                              |                                                              |
-| 12/18 (Wed)  | Last day to submit work                |                                                              |                                                              | **Final**: **[Social Coding Portfolio](/portfolio.md)**      |
-|              |                                        |                                                              |                                                              | *Last updated: 2024 Sep 26 (9:09pm)*                         |
+| 12/18 (Wed)  | Last day to submit work                |                                                              |                                                              | **Final**: [Social Coding Portfolio](https://zmuhls.github.io/ccny-data-science/portfolio/)      |
+|              |                                        |                                                              |                                                              | *Last updated: 2024 Nov 19 (1:01am)*                         |
 
 ## 
