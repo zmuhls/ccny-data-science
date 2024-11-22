@@ -10,9 +10,9 @@ For the final project in this course, you will create and maintain a social codi
 
 ### Programming Activities
 
-**Jupyter Notebook Responses (4 total):** For each of the four programming activities, you will create a complete, well-documented notebook (`.ipynb`) that demonstrates your approach to the assigned problem. Your notebook should include code, visualizations, and explanatory markdown cells that clearly communicate your process and results.
+**Jupyter Notebooks:** For each of the four programming activities, you will create a complete, well-documented notebook (`.ipynb`) that demonstrates your approach to the assigned problem. Your notebook should include code, visualizations, and explanatory markdown cells that clearly communicate your process and results.
 
-**Reflective Log (4 total):** Alongside each notebook, you will write a one-page reflection in markdown (`.md`) that details your learning process, the challenges you encountered, and the insights you gained during the activity. These reflections will be committed to your social coding portfolio and later featured on the course website as part of a gallery of student reflections. 
+**Activity Reflection:** Alongside each notebook, you will write a one-page reflection in markdown (`.md`) that details your learning process, the challenges you encountered, and the insights you gained during the activity. These reflections will be committed to your social coding portfolio and later featured on the course website as part of a gallery of student reflections. 
 
 ### Final Reflection
 
@@ -57,7 +57,78 @@ For your cumulative reflection on the semester, upload a file named final_reflec
 
 3. Selected reflections from your portfolio will be featured on the course website's blog section to showcase your hard work and accomplishments over the semester. 
 
+### Activity Guide
+
+#### Mandatory Activities
+
+1. **Activity 1: Building Blocks**  
+   * Reflection
+   * Jupyter Notebook
+2. **Activity 2: Python Primer**
+   * Reflection
+   * Jupyter Notebook
+
+#### Self-Chosen Activities:
+
+After completing **Activities 1 and 2**, you are required to complete and upload **two additional activities** to your portfolio. You may choose these two activities from any of the following options:
+
+* **Activity 3: Practicing Pandas**: https://colab.research.google.com/github/zmuhls/ccny-data-science/blob/main/assets/activities/activity_3.ipynb
+* **Activity 4: Writing Docs**: https://github.com/zmuhls/ccny-data-science/blob/main/assets/activities/activity_4.md
+* **Activity 5: Data Visualization**: https://github.com/zmuhls/ccny-data-science/blob/main/assets/activities/activity_5.pdf
+
+Alternatively, you can design your own activity or activities from the options below:
+
+1. **Develop a Choose-Your-Own-Adventure Game** 
+   Utilize Python to create an interactive, text-based adventure game that allows users to navigate a narrative through a series of choices.  
+   - **Skills Focus:** Programming and narrative design  
+   - **Goal:** Enhance your programming skills and understanding of narrative structures
+   - **Format:**
+     - Submit a Jupyter Notebook (.ipynb) containing your interactive game code
+     - Include comments in the code explaining your branching structure and logic
+     - Write a reflection on the game design, narrative details, and forking pathways through the branched narrative
+2. **Create a Digital Exhibit Using Conifer**
+   Use Conifer, a web archiving tool, to curate a digital exhibit on a cultural or historical topic of your choice
+   - **Task:** Capture and preserve web pages, organize them thematically, and present them in a coherent, accessible format
+   - **Tool Link:** [Conifer](https://conifer.rhizome.org/)
+   - **Format**: 
+     - In the README.md for your portfolio, <u>submit a link to your published exhibit on Conifer</u> 
+     - Write a 250-word curatorial introduction to the exhibit in a <u>word document or PDF</u>
+3. **Textual Analysis with the Natural Language Toolkit (NLTK)** 
+   Analyze themes, terms, and trends within a substantial text corpus using Python’s NLTK library
+   - **Skills Focus:** Preprocessing text data, tokenization, normalization, and term frequency analysis
+   - **Goal:** Uncover patterns and insights to inform your understanding of the corpus; use [Gutenberg](https://www.gutenberg.org/) for access to openly licenced text data, ranging from novels, poetry, and letters to philosophical texts, political treatises, and more. 
+   - **Format**: 
+     - Submit a Jupyter Notebook (.ipynb) with your code, including text preprocessing and term frequency analysis
+     - Include a reflective section on how your analysis informs your understanding of the text 
+4. **Conduct a Network Analysis of Character Interactions** 
+   Apply network analysis techniques to explore relationships between characters in a selected novel, inspired by Melanie Walsh’s modules
+   - **Skills Focus:** NetworkX or similar tools to build and analyze graphs
+   - **Goal:** Deepen understanding of character dynamics and network theory
+   - **Format**:
+     - Submit a Jupyter Notebook (.ipynb) with your network analysis code using NetworkX 
+     - Include a reflective section on how your analysis informs your understanding of the novel
+
+5. **Compile an Annotated Dataset Bibliography**
+   Identify and evaluate three publicly available datasets relevant to a specific research question or area of interest in the digital humanities  
+
+   * **Task:** For each dataset, provide a citation, a summary of its contents, an assessment of its quality and relevance, and potential applications
+
+   * **Goal**: Strengthen your grasp on the critical, research-based evaluation of public datasets 
+
+   * **Format**: 
+
+     * Submit a Markdown file (.md), word document, or PDF with your annotated bibliography
+
+     * Each entry should include:
+
+       ​	•	Dataset citation (title, author/organization, and URL)
+
+       ​	•	Summary of its contents (2-3 sentences).
+
+       ​	•	Assessment of quality, relevance, and potential applications (2-3 sentences)
+
 ### Grading Criteria
+
 Your social coding portfolio will be assessed based on:
 
 - **Completeness:** Submission of all required components for each activity and the final reflection.
@@ -66,22 +137,8 @@ Your social coding portfolio will be assessed based on:
 - **Project Organization:** The clarity, structure, and navigability of your portfolio's file structure.
 - **Critical Thinking:** Especially in your final reflection, demonstrating engagement with the themes and lessons of the class, from critical theories of data feminism to applied methods of data science
 
-### Benchmarks and Deadlines
-
-Everyone must complete the first two activities on Python basics:
-
-* **Required**: Activity 1: Building Blocks - Due: 10/08 (Tue)
-* **Required**: Activity 2: Python Primer - Due: 10/22 (Tue)
-
-After completing Activity 1-2, choose two from the following three options:
-
-* Activity 3: Practicing Pandas - 11/14 (Thu)
-* Activity 4: Writing Documentation - 11/21 (Thu)
-* Activity 5: Data Visualization -: 12/05 (Thu)
-
-**Social Coding Portfolio**: Due: 12/19 (Thursday)
-
 ### Optional Content
+
 Feel free to include additional content in your portfolio that showcases your learning journey, such as:
 - Links to other relevant repositories or projects
 - Additional reflections or blog posts
