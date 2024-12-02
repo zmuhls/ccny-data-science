@@ -7,9 +7,13 @@ parent: Syllabus
 
 # Schedule
 
-Assigned readings, activities, and projects are linked below. All work is due on the date in the same row as the required reading or activity. If you encounter a dead link then give me holler!
+Assigned readings, activities, and projects are linked below. 
 
-| Date         | Topic/Theme                            | Critical Readings                                            | Technical Readings                                           | Due by Class                                                 |
+All work is due on the date in the same row as the required reading or activity. 
+
+If you encounter a dead link then give me holler!
+
+| Date         | Subject                                | Critical Readings                                            | Technical Readings                                           | Due by Class                                                 |
 | ------------ | -------------------------------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | 08/29 (Thur) | Introduction                           |                                                              |                                                              |                                                              |
 | 09/02 (Mon)  | No Class. College Closed.              |                                                              |                                                              |                                                              |

@@ -42,7 +42,7 @@ We will use [GitHub](https://github.com) as a class submission portal for each p
 
 ### Activity 3: Practicing Pandas
 
-- Floating Deadline: Mon 11/12 - Fri 11/15
+- Floating Deadline: Thu 11/14
 - Downloadable [Instructions: Activity 3](https://colab.research.google.com/github/zmuhls/ccny-data-science/blob/main/assets/activities/activity_3.ipynb)
 - Submission format: .md (Markdown) and .ipynb (Jupyter Notebook)
 
