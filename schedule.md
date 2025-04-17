@@ -1,7 +1,7 @@
 ---
 title: Schedule
 layout: default
-nav_order: 02
+nav_order: 01
 parent: Syllabus
 ---
 
@@ -9,7 +9,7 @@ parent: Syllabus
 
 Assigned readings, activities, and projects are linked below. 
 
-All work is due on the date in the same row as the required reading or activity. 
+All work is due on the date in the same row as the required reading or activity.
 
 If you encounter a dead link then give me holler!
 
@@ -37,9 +37,9 @@ If you encounter a dead link then give me holler!
 | 10/31 (Thur) | Practicing Pandas                      |                                                              | Walsh: [Pandas Basics I](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/01-Pandas-Basics-Part1.html) |                                                              |
 | 11/05 (Tue)  | No class                               |                                                              | Get out & vote!                                              |                                                              |
 | 11/07 (Thur) | Election Debrief                       | Review: [Election Results Vizualization](https://toddwschneider.com/maps/nyc-presidential-election-results/?year=2024) |                                                              |                                                              |
-| 11/12 (Tue)  | Data Biographies                       | Jessica Marie Johnson: [Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads](https://writingindhs19.web.unc.edu/wp-content/uploads/sites/18713/2019/03/0360057.pdf) |                                                              | **Activity 3**: [Practicing Pandas](https://zmuhls.github.io/ccny-data-science/activities/#activity-3-practicing-pandas) (Due by end of week) |
+| 11/12 (Tue)  | Data Biographies                       | Jessica Marie Johnson: [Markup Bodies: Black [Life] Studies and Slavery [Death] Studies at the Digital Crossroads](../assets/readings/markupbodies.pdf) |                                                              | **Activity 3**: [Practicing Pandas](https://zmuhls.github.io/ccny-data-science/activities/#activity-3-practicing-pandas) (Due: 11/14) |
 | 11/14 (Thur) | Trans-Atlantic Slave Trade Dataset     |                                                              | Walsh: [Pandas  Basics II](https://melaniewalsh.github.io/Intro-Cultural-Analytics/03-Data-Analysis/02-Pandas-Basics-Part2.html) |                                                              |
-| 11/19 (Tue)  | Distant Reading                        | Stephen Ramsay: [The Hermeneutics of Screwing Around; or What To Do With a Million Books](https://web.archive.org/web/20140604085234/http://www.playingwithhistory.com/wp-content/uploads/2010/04/hermeneutics.pdf) | Experiment with [Voyant-Tools.org](https://voyant-tools.org/) |                                                              |
+| 11/19 (Tue)  | Distant Reading                        | Stephen Ramsay: [The Hermeneutics of Screwing Around; or What To Do With a Million Books](../assets/readings/ramsay-hermeneutics.pdf) | Experiment with [Voyant-Tools.org](https://voyant-tools.org/) |                                                              |
 | 11/21 (Thur) | Network Analysis                       |                                                              | Walsh: [Network Analysis](https://melaniewalsh.github.io/Intro-Cultural-Analytics/06-Network-Analysis/01-Network-Analysis.html) | **Activity 4**: [Writing Docs](https://zmuhls.github.io/ccny-data-science/activities/#activity-4-writing-docs) |
 | 11/26 (Tue)  | Conferences                            |                                                              | Sign up for 1-on-1 conferences via Discord                   |                                                              |
 | 11/28 (Thur) | No Class. College Closed.              |                                                              |                                                              | —Explore [Social Network Datasets](https://github.com/melaniewalsh/sample-social-network-datasets) |
